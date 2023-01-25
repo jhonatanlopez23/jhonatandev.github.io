@@ -356,8 +356,6 @@ img {
   color: #fff;
   padding: 1rem;
   border-radius: 0.5rem;
-  border: none;
-  cursor: pointer;
   font-weight: var(--font-medium);
 }
 
@@ -884,7 +882,7 @@ img {
 }
 
 .footer__title {
-  font-size: var(--h1-font-size);
+  font-size: var(--h3-font-size);
   margin-bottom: var(--mb-0-25);
 }
 
