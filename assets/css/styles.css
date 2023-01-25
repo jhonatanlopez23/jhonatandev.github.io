@@ -356,6 +356,8 @@ img {
   color: #fff;
   padding: 1rem;
   border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
   font-weight: var(--font-medium);
 }
 
