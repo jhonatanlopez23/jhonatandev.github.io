@@ -317,6 +317,13 @@ img {
   margin-bottom: var(--mb-2);
 }
 
+.home__icon {
+  font-size: 2rem;
+  margin-left: var(--mb-0-5);
+  color: var(--first-color-alt);
+  transition: 0.3s;
+}
+
 .home__scroll {
   display: none;
 }
