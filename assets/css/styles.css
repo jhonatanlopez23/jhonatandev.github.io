@@ -362,6 +362,8 @@ img {
   background-color: var(--first-color);
   color: #fff;
   padding: 1rem;
+  border: none;
+  cursor: pointer;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
 }
